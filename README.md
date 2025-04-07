@@ -23,6 +23,10 @@ O site foi desenvolvido com foco em proporcionar uma primeira impressão profiss
 
 * WhatsApp API: Integração com botão de agendamento
 
+* Integração com Google Maps
+
+* Formulário de Contato
+
 
 
 
